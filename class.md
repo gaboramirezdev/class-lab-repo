@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Grabiel Ramirez  
+- Certification: Backend Software Development  
 
 ## Instructions
 Please replace the placeholders with your details:
